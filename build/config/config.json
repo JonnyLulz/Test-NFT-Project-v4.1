@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xce3523A9e8bEa0E3a400172a4aBF9FDC152B42ff",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xce3523a9e8bea0e3a400172a4abf9fdc152b42ff",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Test NFT Project v4",
+  "SYMBOL": "TV4",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nftv4",
+  "SHOW_BACKGROUND": true
+}
